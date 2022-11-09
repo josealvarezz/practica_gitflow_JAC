@@ -1,1 +1,2 @@
--Se ha creado el progreso.txt en la rama master
+-Se ha creado el progreso.txt en el directorio a través de la consola (mousepad progreso.txt).
+-Se ha solucionado el error que no permitía crear ramas alternativas.

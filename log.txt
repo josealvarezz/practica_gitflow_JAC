@@ -2,4 +2,5 @@ Aquí se irán documentando todos los errores que encuentre en el proceso.
 
 -Me da error al intentar crear una branch. Me dice 'fatal: Not a valid object name: 'main'.
 Buscando por internet leo que no puedo crear ramas si no tengo una main, y esta main no se crea a no ser que haga un commit,
-pues parto de un repositorio vacío, y hasta que no añada archivos no se crea la rama main.
+pues parto de un repositorio vacío, y hasta que no añada archivos no se crea la rama main. Lo compruebo y así es, tras hacer
+el commit inicial ya tengo tanto los archivos, como la rama main, y ya puedo crear nuevas ramas adicionales.
