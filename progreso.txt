@@ -1,1 +1,5 @@
 -Se ha creado el progreso.txt en la rama master
+-Se han creado las ramas 'funcionalidad_1_JAC' y 'control_procesos_1'
+-En 'funcionalidad_1_JAC' se ha creado el archivo JAC.txt, hago el commit procedente.
+-En 'control_procesos_1' actualizo el archivo presente, progreso.txt Procedo a hacer los cambios efectivos con commit
+y hago merge de las ramas funcionalidad_1_JAC y control_procesos_1
