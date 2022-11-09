@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 -Se ha creado el progreso.txt en el directorio a través de la consola (mousepad progreso.txt).
 -Se ha solucionado el error que no permitía crear ramas alternativas.
+=======
+-Se ha creado el progreso.txt en la rama master
+-Se han creado las ramas 'funcionalidad_1_JAC' y 'control_procesos_1'
+-En 'funcionalidad_1_JAC' se ha creado el archivo JAC.txt, hago el commit procedente.
+-En 'control_procesos_1' actualizo el archivo presente, progreso.txt Procedo a hacer los cambios efectivos de esta rama con commit
+y hago merge de las ramas funcionalidad_1_JAC y control_procesos_1
+>>>>>>> control_procesos_1
