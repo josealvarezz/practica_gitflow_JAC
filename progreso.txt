@@ -10,3 +10,4 @@ y hago merge de las ramas 'funcionalidad_1_JAC' y 'control_procesos_1'
 >>>>>>> control_procesos_1
 -Se realiza merge de 'main' y 'control_procesos_1', el cual previamente ha sido fusionado con 'funcionalidad_1_JAC'
 -Se eliminan las branches sobrantes y actualización última de progreso.txt
+-Raúl realiza su trabajo en su rama y realiza merge. Realizo el último commit y push.
